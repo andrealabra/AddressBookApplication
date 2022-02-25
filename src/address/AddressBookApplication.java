@@ -4,7 +4,8 @@ import address.data.AddressEntry; //need to import address entry class
 
 import java.io.File; //to open file
 import java.io.FileNotFoundException; //to say that there is no file
-import java.util.Scanner; //
+import java.util.Scanner; //scanner class used to get user input,
+// since we add and is interactive we need (w3 school java user input resource)
 
 
 public class AddressBookApplication {
